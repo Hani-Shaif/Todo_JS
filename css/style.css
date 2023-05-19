@@ -2,6 +2,36 @@
 body {
     background: #e0f4f4;
 }
-.hidding {
-    font-size: 50px;
+
+.form {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px 10px;
+    background: gray;
+    border-radius: 5px;
+}
+
+.text {
+    border-radius: 5px;
+    padding: 5px;
+    border: 0;
+    width: 60%;
+    outline: none;
+}
+
+.add {
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: 0;
+    background: tomato;
+    color: white;
+    outline: none;
+}
+
+.tasks {
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background: gray;
+    height: 40px;
 }
